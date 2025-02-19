@@ -1,0 +1,89 @@
+/*
+ * Author:Leeper
+ * Date: 2-11-25
+ * File anme: styles.css
+ */
+
+
+/*CSS Reset*/
+body, header, nav, main, footer, h1, div, img{
+margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/*Style rules for body and images*/
+nav{
+    color: #2a1f14;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    font-size: 1.5em;
+    font-family:  Geneva, Arial, sans-serif;
+    font-weight: bold;
+}
+nav li a{
+    display: block;
+    color: #f6eee4;
+    text-align: center;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
+/*Style rules for main content*/
+main{
+    font-family: veranda, arial, sans-serif;
+    padding: 2%;
+    font-size: 1.25em;
+}
+
+h3{
+    padding: 2%;
+ }
+
+main ul{
+    list-style: square;
+}
+.external-link{
+    color:#4d3319;
+    font-weight: bold;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.action{
+    font-size: 1.75em;
+    font-weight: bold;
+    text-align: center;
+    }
+#contact {
+    text-align: center;
+}
+/*style rules for footer content*/
+footer p{
+    font-size: 0.85em;
+    text-align: center;
+    background-color:#2a1f14;
+    color: #f6eee4;
+    padding: 0 1em;
+}
+
+footer p a {
+    color: #f3e6d8;
+    text-decoration: none;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    text-decoration: none;
+}
